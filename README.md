@@ -1,5 +1,3 @@
-Collecting workspace information# Gerenciador de Tarefas API
-
 API RESTful para gerenciamento de tarefas e alunos desenvolvida com Spring Boot.
 
 ## 📋 Descrição
